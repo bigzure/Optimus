@@ -1,2 +1,2 @@
 # frontend
-SiMoSa Frontend
+Optimus Frontend
