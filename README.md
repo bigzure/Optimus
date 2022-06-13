@@ -6,4 +6,4 @@ Optimus User Management
 - PostgreSQL
 - React.js
 - Redux.js
-- TailwindCSS
+- AntDesign
