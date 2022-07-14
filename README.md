@@ -1,4 +1,4 @@
-# Optimus
+# Optimus.js
 Optimus User Management
 - Node.js
 - Express.js
