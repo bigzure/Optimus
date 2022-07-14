@@ -10,4 +10,5 @@ Backend:
 Frontend:
 - React.js
 - Redux.js
+- Redux Thunk
 - AntDesign
