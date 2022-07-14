@@ -1,5 +1,6 @@
 # Optimus.js
-Optimus User Management
+Design pattern to get started with node.js projects easily and quickly.
+
 - Node.js
 - Express.js
 - Sequelize.js
